@@ -3,7 +3,7 @@ Summary:    Helper scripts for Nemo
 Version:    0.1
 Release:    0
 Group:      Configs
-License:    GPLv2
+License:    LGPLv2
 URL:        https://github.com/nemomobile-ux/nemo-scripts
 Source0:    %{name}-%{version}.tar.bz2
 BuildArch:  noarch
